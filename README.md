@@ -57,3 +57,5 @@ Continuar evoluindo profissionalmente na área de **Infraestrutura de TI**, apro
 ## 📌 Projetos acadêmicos
 
 Alguns projetos desenvolvidos durante minha graduação estão disponíveis neste perfil, documentando conhecimentos adquiridos ao longo da formação em Ciência da Computação.
+
+📫 LinkedIn: www.linkedin.com/in/leonardo-bergamo-899b44273
